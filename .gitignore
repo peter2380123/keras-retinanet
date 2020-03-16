@@ -21,3 +21,6 @@ __pycache__/
 .coverage.*
 coverage.xml
 *.cover
+
+# Pretrained network (.h5)
+*.h5
